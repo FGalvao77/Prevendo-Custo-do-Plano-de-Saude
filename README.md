@@ -4,8 +4,7 @@
 
 **Contextualizando**
 
-Conforme `ANS` (Agência Nacional de Saúde Suplementar), o Brasil totalizou em setembro de 2021 cerca de _[48.529.575](http://www.ans.gov.br/anstabnet/cgi-bin/tabnet?dados/tabnet_br.def)_ usuários de plano de saúde. Pórem, aproximadamente _60% da população_ **não possuem** cobertura de plano de saúde.
-
+Conforme `ANS` (Agência Nacional de Saúde Suplementar), o Brasil totalizou em setembro de 2021 cerca de _[48.529.575](http://www.ans.gov.br/anstabnet/cgi-bin/tabnet?dados/tabnet_br.def)_ usuários de plano de saúde. Pórem, aproximadamente _60% da população_ **não possuem** cobertura de plano de saúde.<br>
 O mercado de planos de saúde no Brasil é bastante maduro e possui muitas empresas com diversos tipos de convênios para pessoas físicas e jurídicas.
 
 **Descrição do problema**
